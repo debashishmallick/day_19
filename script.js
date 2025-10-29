@@ -1,6 +1,5 @@
-// script.js
 
-// 🛍️ Product data in object format
+
 const collections = [
   {
     id: 1,
